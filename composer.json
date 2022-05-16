@@ -1,0 +1,17 @@
+{
+    "name": "webxid/wp-post-wrapper",
+    "autoload": {
+        "psr-4": {
+            "WebXID\\WpPostWrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PavloM",
+            "email": "webxid@ukr.net"
+        }
+    ],
+    "require": {
+        "webxid/basic-classes": "^1.2"
+    }
+}
