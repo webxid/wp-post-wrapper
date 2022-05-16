@@ -1,4 +1,4 @@
-The lib help to wrap `\WP_Post` and do cache already collected data. Also, you can implement your own method for a post instance 
+The lib help to wrap WP instances and to cache already collected data. Also, you can implement your own method for a post instance 
 
 # Install
 

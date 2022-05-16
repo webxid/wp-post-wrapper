@@ -1,5 +1,7 @@
 {
     "name": "webxid/wp-post-wrapper",
+    "description": "The lib help to wrap WP instances and to cache already collected data",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "WebXID\\WpPostWrapper\\": "src/"
